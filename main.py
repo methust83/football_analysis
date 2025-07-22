@@ -1092,7 +1092,7 @@ def main():
 
     # Footer
     st.sidebar.markdown("---")
-    st.sidebar.markdown("*Built with Streamlit & Scikit-learn*")
+    #st.sidebar.markdown("*Built with Streamlit & Scikit-learn*")
 
 
 if __name__ == "__main__":
